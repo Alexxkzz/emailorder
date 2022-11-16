@@ -1,0 +1,14 @@
+@font-face {
+    font-family: helvetica;
+    src: url(./Helvetica-Neue-Font/Helvetica\ Neue\ W01\ 77\ Bd\ Cn\ Obl/);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(./Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(./Nunito/static/Nunito-Regular.ttf);
+}
